@@ -1,2 +1,6 @@
 This is a new file, I'm happy doing this.
 Coding is happy.
+
+
+Another changes.
+To commit.
